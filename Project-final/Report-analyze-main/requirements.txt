@@ -1,0 +1,6 @@
+flask
+gradio
+pytesseract
+pillow 
+gradio
+google-generativeai
